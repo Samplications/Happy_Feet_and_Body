@@ -1,0 +1,121 @@
+{
+    "name": "Happy Feet & Body",
+    "owner": "Linda Vranken",
+    "about": "Hier kan je terecht voor professionele massages, voetreflexologie, gelaatsverzorging en dermaplaning.\nKijk naar mijn behandelingen en geniet van een ontspannen moment voor jezelf.",
+    "socials": {"instagram": "", "facebook": "https://facebook.com/happyfeetlindavranken", "whatsapp": "https://api.whatsapp.com/send?phone=478660491", "linkedin": ""},
+    "contact": {"email":"lindavranken@hotmail.com", "address": "Herestraat 21, 3520 Zonhoven", "tel": "+32478660491", "opening": {"maandag": "09.00 - 21.00", "dinsdag": "09.00 - 21.00", "woensdag": "Gesloten", "donderdag": "09.00 - 21.00", "vrijdag": "09.00 - 21.00", "zaterdag": "09.00 - 21.00", "zondag": "Gesloten"}},
+    "vatNumber": "BE0627.787.067",
+    "services": [{"name":"Ontspanningsmassage", "description": "Rustgevende ontspanningsmassage voor balans, welzijn en stressvermindering. Voel je herboren!", "image": "ontspanningsmassage.jpg"}, {"name":"Voetreflexologie", "description": "Alternatieve behandelmethode waarbij druk wordt uitgeoefend op specifieke zones van de voeten.", "image": "voetreflexologie.jpg"}, {"name":"Gelaatsverzorging", "description": "Een basic gelaatsverzorging is een verzorgende behandeling die gericht is op het reinigen, herstel en verzorging van het gelaat.","image": "gelaatsverzorging.jpg"}, {"name":"Dermaplaning", "description": "Een gezichtsbehandeling waarbij met een scalpel dode huidcellen en donshaartjes van het gezicht worden verwijderd.", "image": "dermaplaning.jpg"}],
+    
+  "pricelist": [
+    [
+  {
+    "name": "Basic gelaatsverzorging",
+    "description": "Geniet van een professionele gezichtsverzorging met reiniging, peeling, wenkbrauwepilatie en een ontspannende gezichtsmassage. Afgesloten met een verfrissend crème masker, dagcrème en SPF voor een stralende huid.",
+    "price": "€ 65.00"
+  },
+  {
+    "name": "Dermaplaning & LED therapie",
+    "description": "Ervaar de ultieme huidverzorging met dermaplaning en LED-lichttherapie. Deze behandeling verwijdert donshaartjes en dode huidcellen, stimuleert collageenproductie en vermindert fijne lijntjes. Geschikt voor alle huidtypes, behalve bij actieve acne of infecties.",
+    "price": "€ 60.00"
+  },
+  {
+    "name": "Dermaplaning & gelaatsverzorging",
+    "description": "Combineer dermaplaning met een voedende gezichtsverzorging voor een gladde, stralende en verjongde huid. Deze behandeling verwijdert donshaartjes en dode huidcellen, gevolgd door een verzorgende massage.",
+    "price": "€ 125.00"
+  },
+  {
+    "name": "Rugscrub & rugmassage",
+    "description": "Ontspan met een verfrissende rugscrub en massage. Deze behandeling verwijdert dode huidcellen en vermindert spanning in de rugspieren, waardoor de bloedcirculatie wordt gestimuleerd.",
+    "price": "€ 50.00"
+  },
+  {
+    "name": "Full body massage",
+    "description": "Laat alle spanning los met een ontspannende full-body massage. Deze massage richt zich op gebieden met spanning en wordt afgesloten met een verfrissende hoofdmassage.",
+    "price": "€ 70.00"
+  },
+  {
+    "name": "Full body plus",
+    "description": "Geniet van een uitgebreide full-body massage inclusief voeten. Deze massage is gericht op het verlichten van spierpijn en het verminderen van stress, waardoor je je volledig ontspannen en verjongd voelt.",
+    "price": "€ 90.00"
+  },
+  {
+    "name": "Body heren (achterzijde)",
+    "description": "Speciaal voor heren: een ontspannende massage gericht op de rug, inclusief hoofd, nek, schouders, armen, benen en voeten. Perfect voor het verlichten van spanning en stress.",
+    "price": "€ 70.00"
+  },
+  {
+    "name": "Hoofd-nek-schouder-rugmassage",
+    "description": "Focus op het verlichten van spanning en stress in het hoofd, nek, schouders en rug. Deze massage is perfect voor het verminderen van spierknopen en het bevorderen van ontspanning.",
+    "price": "€ 40.00 - € 70.00"
+  },
+  {
+    "name": "Moxa-lamp bij massage",
+    "description": "Ervaar de helende warmte van een Moxa-lamp tijdens je massage. Deze behandeling stimuleert de bloedcirculatie, ontspant spieren en verlicht pijn, waardoor je je volledig verjongd voelt.",
+    "price": "€ 10.00"
+  },
+  {
+    "name": "Hairplay and Scalp massage",
+    "description": "Laat je verwennen met een speelse en ontspannende hoofdhuidmassage. Deze behandeling combineert zacht haarspel met een hoofdhuidmassage om ontspanning en welzijn te bevorderen.",
+    "price": "€ 40.00"
+  },
+  {
+    "name": "Zwangerschapsmassage",
+    "description": "Speciaal ontworpen voor zwangere vrouwen vanaf 12 weken. Deze zachte massage richt zich op het verlichten van fysieke klachten en het bieden van ontspanning tijdens de zwangerschap.",
+    "price": "€ 70.00"
+  },
+  {
+    "name": "Kindermassage (tot 12 jaar)",
+    "description": "Een zachte en liefdevolle massagetechniek voor kinderen om welzijn en ontspanning te bevorderen. Perfect voor het verminderen van stress en het stimuleren van een goede nachtrust.",
+    "price": "€ 30.00"
+  },
+  {
+    "name": "Stoelmassage",
+    "description": "Een snelle en effectieve drukpuntmassage gericht op nek, schouders, rug, armen, hoofd en handen. Perfect voor het verminderen van stress en spanning tijdens een drukke dag.",
+    "price": "€ 40.00"
+  },
+  {
+    "name": "Gelaatsmassage",
+    "description": "Verwen je huid met een ontspannende gelaatsmassage. Deze behandeling verbetert de huidconditie, vermindert spanning en bevordert ontspanning.",
+    "price": "€ 40.00"
+  },
+  {
+    "name": "Duo massage",
+    "description": "Geniet samen van een gelijktijdige massage in een ruimte met twee massagetafels en twee therapeuten. Perfect voor een ontspannen uitje met een vriend of partner.",
+    "price": "€ 130.00"
+  },
+  {
+    "name": "Buitenmassage",
+    "description": "Geniet van een ontspannende massage in de buitenlucht bij mooi weer. Beschikbaar voor zowel solo als duo massages.",
+    "price": "€ 70.00"
+  },
+  {
+    "name": "Kruidenstempelmassage",
+    "description": "Laat je verwennen met een verwarmende en ontspannende massage met warme kruidenstempels. Deze behandeling gebruikt een mix van aromatische kruiden om de ultieme ontspanning te bevorderen.",
+    "price": "€ 70.00"
+  },
+  {
+    "name": "Hot stone massage",
+    "description": "Ervaar de ultieme ontspanning met een hot stone massage. Warme stenen worden gebruikt om spieren te ontspannen en de bloedcirculatie te verbeteren, waardoor je je volledig verjongd voelt.",
+    "price": "€ 70.00"
+  },
+  {
+    "name": "Vedermassage",
+    "description": "Laat je verwennen met een ultrazachte, sensuele massage op de rug met veren. Deze behandeling is gericht op diepe mentale ontspanning en het verminderen van stress.",
+    "price": "€ 40.00"
+  },
+  {
+    "name": "Voetreflexmassage",
+    "description": "Ontspan met een therapeutische voetreflexmassage. Deze behandeling stimuleert de doorbloeding, bevordert de energiecirculatie en helpt het lichaam te ontspannen en herstellen.",
+    "price": "€ 50.00"
+  },
+  {
+    "name": "Voetreflexologie",
+    "description": "Ervaar de helende kracht van voetreflexologie. Deze natuurlijke therapie brengt het lichaam in balans, laat energie vrij stromen en stimuleert het zelfgenezend vermogen van het lichaam.",
+    "price": "€ 50.00"
+  }
+]
+
+
+  ]
+}
