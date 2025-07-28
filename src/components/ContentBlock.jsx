@@ -40,14 +40,30 @@ const TextContent = styled.div`
 
   h1 {
     margin-bottom: 0.7rem;
+    font-size: clamp(2rem, 10vw, 2.8rem); 
+    
+    // first one is the minimum allowed font-size.
+    // second argument is font-size that you wish to always have. Its unit must be relative(vw, vh, ch) and not absolute(i.e not px, mm, pt). relative unit will make it change its size w.r.t the changing screen sizes.
+    // third one is the maximum allowed font-size.
+    
   }
 
   p {
     margin-top: 0.7rem;
+    font-size: clamp(0.5rem, 3vw, 1.4rem);
   }
 
   @media (max-width: 768px) {
     padding: 1rem;
+
+    p {
+      margin-top: 0;
+    }
+
+    h1 {
+      margin-bottom: 0.4rem;
+      font-size: clamp(2rem, 1vw, 2.8rem);
+    }
   }
 `;
 
